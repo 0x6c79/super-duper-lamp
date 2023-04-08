@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Daily blogger</title>
-    <link>https://0x6c79.github.io/super-duper-lamp/</link>
-    <description>Recent content on Daily blogger</description>
+    <title>Posts on Daily blogger</title>
+    <link>https://0x6c79.github.io/super-duper-lamp/posts/</link>
+    <description>Recent content in Posts on Daily blogger</description>
     <image>
       <title>Daily blogger</title>
       <url>https://0x6c79.github.io/super-duper-lamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 23:34:03 +0800</lastBuildDate><atom:link href="https://0x6c79.github.io/super-duper-lamp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Apr 2023 23:34:03 +0800</lastBuildDate><atom:link href="https://0x6c79.github.io/super-duper-lamp/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test5</title>
       <link>https://0x6c79.github.io/super-duper-lamp/posts/test5/</link>
