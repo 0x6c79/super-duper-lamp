@@ -1,0 +1,4 @@
+baseURL: "https://0x6c79.github.io/super-duper-lamp/"
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
