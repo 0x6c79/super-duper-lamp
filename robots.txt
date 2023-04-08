@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://0x6c79.github.io/super-duper-lamp/sitemap.xml
