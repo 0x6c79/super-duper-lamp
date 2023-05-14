@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2023 14:31:59 +0800</lastBuildDate><atom:link href="https://0x6c79.github.io/super-duper-lamp/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 21:16:22 +0800</lastBuildDate><atom:link href="https://0x6c79.github.io/super-duper-lamp/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 05 08</title>
+      <link>https://0x6c79.github.io/super-duper-lamp/posts/2023-05-08/</link>
+      <pubDate>Sun, 14 May 2023 21:16:22 +0800</pubDate>
+      
+      <guid>https://0x6c79.github.io/super-duper-lamp/posts/2023-05-08/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>2023年4月9日</title>
       <link>https://0x6c79.github.io/super-duper-lamp/posts/23-4-9/</link>
@@ -19,33 +28,6 @@
       
       <guid>https://0x6c79.github.io/super-duper-lamp/posts/23-4-9/</guid>
       <description>Java.hello().</description>
-    </item>
-    
-    <item>
-      <title>Test4</title>
-      <link>https://0x6c79.github.io/super-duper-lamp/posts/test4/</link>
-      <pubDate>Sat, 08 Apr 2023 23:15:49 +0800</pubDate>
-      
-      <guid>https://0x6c79.github.io/super-duper-lamp/posts/test4/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://0x6c79.github.io/super-duper-lamp/posts/test2/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://0x6c79.github.io/super-duper-lamp/posts/test2/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Test 3</title>
-      <link>https://0x6c79.github.io/super-duper-lamp/posts/test3/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://0x6c79.github.io/super-duper-lamp/posts/test3/</guid>
-      <description>Desc Text.</description>
     </item>
     
   </channel>
