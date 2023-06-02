@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 May 2023 21:16:22 +0800</lastBuildDate><atom:link href="https://0x6c79.github.io/super-duper-lamp/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jun 2023 00:42:47 +0800</lastBuildDate><atom:link href="https://0x6c79.github.io/super-duper-lamp/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy Automatic1111&#39;s Stable Diffusion webui on fedora silverblue 38 with AMD GPU</title>
+      <link>https://0x6c79.github.io/super-duper-lamp/posts/2023-06-02/</link>
+      <pubDate>Sat, 03 Jun 2023 00:42:47 +0800</pubDate>
+      
+      <guid>https://0x6c79.github.io/super-duper-lamp/posts/2023-06-02/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>2023 05 08</title>
       <link>https://0x6c79.github.io/super-duper-lamp/posts/2023-05-08/</link>
