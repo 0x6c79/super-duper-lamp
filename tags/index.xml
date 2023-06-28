@@ -13,18 +13,9 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Jun 2023 19:02:11 +0800</lastBuildDate><atom:link href="https://0x6c79.github.io/super-duper-lamp/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>https://0x6c79.github.io/super-duper-lamp/tags/first/</link>
-      <pubDate>Thu, 08 Jun 2023 19:02:11 +0800</pubDate>
-      
-      <guid>https://0x6c79.github.io/super-duper-lamp/tags/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AI</title>
       <link>https://0x6c79.github.io/super-duper-lamp/tags/ai/</link>
-      <pubDate>Sat, 03 Jun 2023 00:42:47 +0800</pubDate>
+      <pubDate>Thu, 08 Jun 2023 19:02:11 +0800</pubDate>
       
       <guid>https://0x6c79.github.io/super-duper-lamp/tags/ai/</guid>
       <description></description>
@@ -33,9 +24,18 @@
     <item>
       <title>Stable Diffusion</title>
       <link>https://0x6c79.github.io/super-duper-lamp/tags/stable-diffusion/</link>
-      <pubDate>Sat, 03 Jun 2023 00:42:47 +0800</pubDate>
+      <pubDate>Thu, 08 Jun 2023 19:02:11 +0800</pubDate>
       
       <guid>https://0x6c79.github.io/super-duper-lamp/tags/stable-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://0x6c79.github.io/super-duper-lamp/tags/test/</link>
+      <pubDate>Sun, 14 May 2023 21:16:22 +0800</pubDate>
+      
+      <guid>https://0x6c79.github.io/super-duper-lamp/tags/test/</guid>
       <description></description>
     </item>
     
